@@ -18,8 +18,8 @@
 
   😍 VOLUNTEER<br>
   I love sharing good influence and social value.<br>
-  2016~Present Ministry of Employment and Labor, college student employment mentoring, talent donation service data analysis job<br>
-  2022~Present Incheon Social Welfare Council Coding Education Volunteer Group Leader Ga*nuri, Cham*eun, Sae*myeong Local Children’s Center, etc.<br><br>
+  2016 Present Ministry of Employment and Labor, college student employment mentoring, talent donation service data analysis job<br>
+  2022 Present Incheon Social Welfare Council Coding Education Volunteer Group Leader Ga*nuri, Cham*eun, Sae*myeong Local Children’s Center, etc.<br><br>
  
   😀 THINGS I LIKE<br>
   Swimming 🏊‍♂️<br>
