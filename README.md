@@ -1,6 +1,7 @@
 ## 👋 Who is Pablo?? (Public) 👋
 <b>Data Analyst & Writer for everyone</b><br>
-💪  I have experienced 15 years in Data Analysis in Research & Design, Business Analysis, and Teaching. Skilled blow 🚀<br><br>
+💪 I have experienced 15 years in Data Analysis in Research & Design, Business Analysis, and Teaching.<br>
+🚀 Skilled blow<br><br>
 <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
@@ -18,7 +19,7 @@
 
   😁 **ABOUT ME**<br>
   This is ✨Jeong Kyung-moon✨, ${\color{blue}a \space data \space analyst \space and \space a \space writer}$ growing together.<br>
-  We are taking the lead in popularizing data literacy to answer the question, <br>I chose data analysis over kiss my boss's ass<br>
+  We are taking the lead in popularizing data literacy to answer the question,<br>
   
   <div align="center">
   <b>“Does data provide equal opportunities for everyone?”</b><br><br>
@@ -32,7 +33,7 @@
   🥇 **AWARD**<br>
   2019 ‘Big Data Analysis-Based Quality Management’ Incheon Metropolitan City Mayor’s Award/Gyeongnam Province Governor’s Award/President’s Award<br>
   2020 Received the Minister of Land, Infrastructure and Transport Award for 2020 ‘Intelligent AI Defect Prevention Technology’<br>
-  2022 Received the Minister of Land, Infrastructure and Transport Award at the 2022 ‘Smart Construction Challenge’<br>
+  2022 Received the Minister of Land, Infrastructure and Transport Award at the 2022 ‘Smart Construction Challenge’<br><br>
 
   😍 **VOLUNTEER**<br>
   I love ${\color{blue}sharing}$ good influence and ${\color{blue}social value}$.<br>
