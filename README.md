@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/powerbi-3DD6AB?style=flat-square&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3DD84?style=flat-square&logo=python&logoColor=white"/>
 
-![ad-front-data-analysis](https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174 width="30%" height="30%")
+<img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="30%" height="30%">
 
   😁 ABOUT ME<br>
   This is ✨Jeong Kyung-moon✨, a data analyst and a writer growing together.<br>
