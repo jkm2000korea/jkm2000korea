@@ -1,4 +1,4 @@
-### 👋 Who is Pablo?? (Public) 👋
+## 👋 Who is Pablo?? (Public) 👋
 <b>Data Analyst & Writer for everyone</b>
 💪  I have experienced 15 years in Data Analysis in Research & Design, Business Analysis, and Teaching. Skilled blow 🚀<br><br>
 <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
@@ -11,20 +11,21 @@
 <img src="https://img.shields.io/badge/pytorch-EE4CEC?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br><br>
 
+### I chose data analysis over kiss my boss's ass
 <p align="center">
 <img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="35%" height="35%" >
 </p><br><br>
 
   😁 **ABOUT ME**<br>
-  This is ✨Jeong Kyung-moon✨,a data analyst and a writer growing together.<br>
-  We are taking the lead in popularizing data literacy to answer the question, <br><br>
+  This is ✨Jeong Kyung-moon✨,${\color{blue} a \space data \space analyst \space and \space a \space writer}$ growing together.<br>
+  We are taking the lead in popularizing data literacy to answer the question, <br>I chose data analysis over kiss my boss's ass
   
   <div align="center">
   <b>“Does data provide equal opportunities for everyone?”</b><br><br>
   </div>
   
   🏫 **LECTURE**<br>
-  I am ${\color{blue}a\space National\space Competency\space Standards\space (NCS) \spaceinstructor}$ in Information Technology Strategy and Planning.<br>
+  I am ${\color{blue}a\space National\space Competency\space Standards\space (NCS) \space instructor}$ in Information Technology Strategy and Planning.<br>
   [Data Literacy] Public Institutions and Companies<br>
   [Data Analysis] National and public universities, graduate schools, and private universities<br><br>
 
