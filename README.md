@@ -1,4 +1,3 @@
-```diff
 ### 👋 Who is Pablo?? (Public) 👋
 <b>Data Analyst & Writer for everyone</b>
 💪  I have experienced 15 years in Data Analysis in Research & Design, Business Analysis, and Teaching. Skilled blow 🚀<br><br>
@@ -17,8 +16,7 @@
 </p><br><br>
 
   😁 **ABOUT ME**<br>
-  This is ✨!Jeong Kyung-moon✨,
-a data analyst and a writer growing together.<br>
+  This is ✨Jeong Kyung-moon✨,a data analyst and a writer growing together.<br>
   We are taking the lead in popularizing data literacy to answer the question, <br><br>
   
   <div align="center">
@@ -26,8 +24,7 @@ a data analyst and a writer growing together.<br>
   </div>
   
   🏫 **LECTURE**<br>
-  I am a !National Competency Standards (NCS)
-instructor in Information Technology Strategy and Planning.<br>
+  I am $${\color{blue}a National Competency Standards (NCS) instructor}$$ in Information Technology Strategy and Planning.<br>
   [Data Literacy] Public Institutions and Companies<br>
   [Data Analysis] National and public universities, graduate schools, and private universities<br><br>
 
@@ -43,4 +40,4 @@ instructor in Information Technology Strategy and Planning.<br>
  
   😀 **THINGS I LIKE**<br>
   Swimming 🏊‍♂️  Golf🏌  Ski ⛷  Gym 💪 Basketball 🏀 Yoga 🧘‍♂️
-'''
+
