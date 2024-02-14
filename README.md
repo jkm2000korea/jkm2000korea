@@ -1,32 +1,32 @@
 ### Hi there 👋
 <b>Data Analyst for everyone</b> skilled in Research & Design, Business Analysis, and Teaching.🚀<br>
-<img src="https://img.shields.io/badge/powerbi&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/powerbi-3DD84?style=flat-square&logo=powerbi&logoColor=white"/>
 
-  😁 ABOUT ME
+  😁 ABOUT ME<br>
   This is ✨Jeong Kyeong-moon✨, a data analyst and a writer growing together.
-  We are taking the lead in popularizing data literacy to answer the question, 
+  We are taking the lead in popularizing data literacy to answer the question, <br><br>
   
-  “Does data provide equal opportunities for everyone?”
+  “Does data provide equal opportunities for everyone?”<br><br>
 
-  😀 LECTURE
+  😀 LECTURE<br>
   I am a National Competency Standards (NCS) instructor in Information Technology Strategy and Planning.
   I have experienced 15 years of Data Analysis and 5 years of Python development.<br><br>
   
   <Data Literacy> Public Institutions and Companies
   <Data Analysis> National and public universities, graduate schools, and private universities
 
-  😍 VOLUNTEER
+  😍 VOLUNTEER<br>
   I love sharing good influence and social value.
   2016~Present Ministry of Employment and Labor, college student employment mentoring, talent donation service _ data analysis job
   2022~Present Incheon Social Welfare Council Coding Education Volunteer Group Leader _ Ga*nuri, Cham*eun, Sae*myeong Local Children’s Center, etc.
  
 
 
-  😀 THINGS I LIKE
-  Swimming 🏊‍♂️
-  Golf🏌
-  Ski ⛷
-  Gym 💪
+  😀 THINGS I LIKE<br>
+  Swimming 🏊‍♂️<br>
+  Golf🏌<br>
+  Ski ⛷<br>
+  Gym 💪<br>
   
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jkm2000korea)](https://github.com/jkm2000korea)
 
