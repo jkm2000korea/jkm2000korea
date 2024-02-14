@@ -12,10 +12,10 @@
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br><br>
 
 <p align="center">
-<img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="40%" height="40%" >
+<img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="35%" height="35%" >
 </p><br><br>
 
-  😁 ABOUT ME<br>
+  😁 **ABOUT ME**<br>
   This is ✨Jeong Kyung-moon✨, a data analyst and a writer growing together.<br>
   We are taking the lead in popularizing data literacy to answer the question, <br><br>
   
@@ -23,16 +23,16 @@
   <b>“Does data provide equal opportunities for everyone?”</b><br><br>
   </div>
   
-  😀 LECTURE<br>
+  😀 **LECTURE**<br>
   I am a National Competency Standards (NCS) instructor in Information Technology Strategy and Planning.<br>
   I have experienced 15 years in Data Analysis.<br><br>
   [Data Literacy] Public Institutions and Companies<br>
   [Data Analysis] National and public universities, graduate schools, and private universities<br><br>
 
-  😍 VOLUNTEER<br>
+  😍 **VOLUNTEER**<br>
   I love sharing good influence and social value.<br>
   From 2016 Present Ministry of Employment and Labor, college student employment mentoring, talent donation service data analysis job<br>
   From 2022 Present Incheon Social Welfare Council Coding Education Volunteer Group Leader at Local Children’s Center, etc.<br><br>
  
-  😀 THINGS I LIKE<br>
+  😀 **THINGS I LIKE**<br>
   Swimming 🏊‍♂️  Golf🏌  Ski ⛷  Gym 💪
