@@ -11,13 +11,13 @@
 <img src="https://img.shields.io/badge/pytorch-EE4CEC?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br><br>
 
-### I chose data analysis over kiss my boss's ass
+
 <p align="center">
 <img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="35%" height="35%" >
-</p><br><br>
+<br>I chose data analysis over kiss my boss's ass<br><br></p>
 
   😁 **ABOUT ME**<br>
-  This is ✨Jeong Kyung-moon✨,${\color{blue} a \space data \space analyst \space and \space a \space writer}$ growing together.<br>
+  This is ✨Jeong Kyung-moon✨, ${\color{blue}a \space data \space analyst \space and \space a \space writer}$ growing together.<br>
   We are taking the lead in popularizing data literacy to answer the question, <br>I chose data analysis over kiss my boss's ass
   
   <div align="center">
@@ -35,7 +35,7 @@
   2022 Received the Minister of Land, Infrastructure and Transport Award at the 2022 ‘Smart Construction Challenge’
 
   😍 **VOLUNTEER**<br>
-  I love sharing good influence and social value.<br>
+  I love ${\color{blue}sharing}$ good influence and ${\color{blue}social value}$.<br>
   From 2016 Present Ministry of Employment and Labor, college student employment mentoring, talent donation service data analysis job<br>
   From 2022 Present Incheon Social Welfare Council Coding Education Volunteer Group Leader at Local Children’s Center, etc.<br><br>
  
