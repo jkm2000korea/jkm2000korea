@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br><br>
 
 <p align="center">
-  "나는 처세술 대신 데이터 분석을 택했다" 저자<br>
 <img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="40%" height="40%" >
 </p><br><br>
 
@@ -21,7 +20,7 @@
   We are taking the lead in popularizing data literacy to answer the question, <br><br>
   
   <div align="center">
-  “Does data provide equal opportunities for everyone?”<br><br>
+  <b>“Does data provide equal opportunities for everyone?”</b><br><br>
   </div>
   
   😀 LECTURE<br>
@@ -32,8 +31,8 @@
 
   😍 VOLUNTEER<br>
   I love sharing good influence and social value.<br>
-  2016 Present Ministry of Employment and Labor, college student employment mentoring, talent donation service data analysis job<br>
-  2022 Present Incheon Social Welfare Council Coding Education Volunteer Group Leader Ga*nuri, Cham*eun, Sae*myeong Local Children’s Center, etc.<br><br>
+  From 2016 Present Ministry of Employment and Labor, college student employment mentoring, talent donation service data analysis job<br>
+  From 2022 Present Incheon Social Welfare Council Coding Education Volunteer Group Leader at Local Children’s Center, etc.<br><br>
  
   😀 THINGS I LIKE<br>
   Swimming 🏊‍♂️  Golf🏌  Ski ⛷  Gym 💪
