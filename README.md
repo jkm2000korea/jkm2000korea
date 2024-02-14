@@ -1,6 +1,7 @@
+```diff
 ### 👋 Who is Pablo?? (Public) 👋
 <b>Data Analyst & Writer for everyone</b>
-💪 skilled in Research & Design, Business Analysis, and Teaching.🚀<br><br>
+💪  I have experienced 15 years in Data Analysis in Research & Design, Business Analysis, and Teaching. Skilled blow 🚀<br><br>
 <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
@@ -16,18 +17,24 @@
 </p><br><br>
 
   😁 **ABOUT ME**<br>
-  This is ✨Jeong Kyung-moon✨, a data analyst and a writer growing together.<br>
+  This is ✨!Jeong Kyung-moon✨,
+a data analyst and a writer growing together.<br>
   We are taking the lead in popularizing data literacy to answer the question, <br><br>
   
   <div align="center">
   <b>“Does data provide equal opportunities for everyone?”</b><br><br>
   </div>
   
-  😀 **LECTURE**<br>
-  I am a National Competency Standards (NCS) instructor in Information Technology Strategy and Planning.<br>
-  I have experienced 15 years in Data Analysis.<br><br>
+  🏫 **LECTURE**<br>
+  I am a !National Competency Standards (NCS)
+instructor in Information Technology Strategy and Planning.<br>
   [Data Literacy] Public Institutions and Companies<br>
   [Data Analysis] National and public universities, graduate schools, and private universities<br><br>
+
+  🥇 **AWARD**<br>
+  2019 ‘Big Data Analysis-Based Quality Management’ Incheon Metropolitan City Mayor’s Award/Gyeongnam Province Governor’s Award/President’s Award
+  2020 Received the Minister of Land, Infrastructure and Transport Award for 2020 ‘Intelligent AI Defect Prevention Technology’
+  2022 Received the Minister of Land, Infrastructure and Transport Award at the 2022 ‘Smart Construction Challenge’
 
   😍 **VOLUNTEER**<br>
   I love sharing good influence and social value.<br>
@@ -35,4 +42,5 @@
   From 2022 Present Incheon Social Welfare Council Coding Education Volunteer Group Leader at Local Children’s Center, etc.<br><br>
  
   😀 **THINGS I LIKE**<br>
-  Swimming 🏊‍♂️  Golf🏌  Ski ⛷  Gym 💪
+  Swimming 🏊‍♂️  Golf🏌  Ski ⛷  Gym 💪 Basketball 🏀 Yoga 🧘‍♂️
+'''
