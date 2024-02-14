@@ -1,8 +1,8 @@
 ### 👋 Who is Pablo?? (Public) 👋
-<b>Data Analyst & Writer for everyone</b><br>
+<b>Data Analyst & Writer for everyone</b>
 💪 skilled in Research & Design, Business Analysis, and Teaching.🚀<br><br>
-
-<img src="https://img.shields.io/badge/powerbi-3DD6AB?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/r-3DD84?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-276DC3?style=flat-square&logo=python&logoColor=white"/>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br><br>
 
 <p align="center">
-  "나는 처세술 대신 데이터 분석을 택했다" 저자
+  "나는 처세술 대신 데이터 분석을 택했다" 저자<br>
 <img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="40%" height="40%" >
 </p><br><br>
 
