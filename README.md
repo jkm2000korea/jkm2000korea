@@ -1,7 +1,6 @@
 ### Hi there 👋
 <b>Data Analyst for everyone</b> skilled in Research & Design, Business Analysis, and Teaching.🚀<br>
-<img alt=”python” src=”https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%#3776AB"/>
-<img src="https://img.shields.io/badge/powerbi-#F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/powerbi&logo=powerbi&logoColor=white"/>
 
   😁 ABOUT ME
   This is ✨Jeong Kyeong-moon✨, a data analyst and a writer growing together.
@@ -31,8 +30,6 @@
   
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jkm2000korea)](https://github.com/jkm2000korea)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkm2000korea&layout=compact)](https://github.com/jkm2000korea)
-<!--
 **jkm2000korea/jkm2000korea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
