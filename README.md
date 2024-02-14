@@ -24,7 +24,7 @@
   </div>
   
   🏫 **LECTURE**<br>
-  I am $${\color{blue}a National Competency Standards (NCS) instructor}$$ in Information Technology Strategy and Planning.<br>
+  I am {\color{blue}a National Competency Standards (NCS) instructor} in Information Technology Strategy and Planning.<br>
   [Data Literacy] Public Institutions and Companies<br>
   [Data Analysis] National and public universities, graduate schools, and private universities<br><br>
 
