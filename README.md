@@ -1,5 +1,7 @@
-### Hi there 👋
-<b>Data Analyst for everyone</b> skilled in Research & Design, Business Analysis, and Teaching.🚀<br><br>
+### 👋 Who is Pablo?? (Public) 👋
+<b>Data Analyst & Writer for everyone</b><br>
+💪 skilled in Research & Design, Business Analysis, and Teaching.🚀<br><br>
+
 <img src="https://img.shields.io/badge/powerbi-3DD6AB?style=flat-square&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/r-3DD84?style=flat-square&logo=R&logoColor=white"/>
@@ -10,6 +12,7 @@
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br><br>
 
 <p align="center">
+  "나는 처세술 대신 데이터 분석을 택했다" 저자
 <img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="40%" height="40%" >
 </p><br><br>
 
@@ -18,15 +21,14 @@
   We are taking the lead in popularizing data literacy to answer the question, <br><br>
   
   <div align="center">
-  ##“Does data provide equal opportunities for everyone?”<br><br>
+  “Does data provide equal opportunities for everyone?”<br><br>
   </div>
   
   😀 LECTURE<br>
   I am a National Competency Standards (NCS) instructor in Information Technology Strategy and Planning.<br>
-  I have experienced 15 years of Data Analysis and 5 years of Python development.<br><br>
-  
-  <Data Literacy> Public Institutions and Companies<br>
-  <Data Analysis> National and public universities, graduate schools, and private universities<br><br>
+  I have experienced 15 years in Data Analysis.<br><br>
+  [Data Literacy] Public Institutions and Companies<br>
+  [Data Analysis] National and public universities, graduate schools, and private universities<br><br>
 
   😍 VOLUNTEER<br>
   I love sharing good influence and social value.<br>
@@ -34,7 +36,4 @@
   2022 Present Incheon Social Welfare Council Coding Education Volunteer Group Leader Ga*nuri, Cham*eun, Sae*myeong Local Children’s Center, etc.<br><br>
  
   😀 THINGS I LIKE<br>
-  Swimming 🏊‍♂️<br>
-  Golf🏌<br>
-  Ski ⛷<br>
-  Gym 💪<br>
+  Swimming 🏊‍♂️  Golf🏌  Ski ⛷  Gym 💪
