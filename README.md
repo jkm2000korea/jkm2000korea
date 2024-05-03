@@ -34,7 +34,11 @@
   2019 ‘Big Data Analysis-Based Quality Management’ Incheon Metropolitan City Mayor’s Award/Gyeongnam Province Governor’s Award/President’s Award<br>
   2020 Received the Minister of Land, Infrastructure and Transport Award for 2020 ‘Intelligent AI Defect Prevention Technology’<br>
   2022 Received the Minister of Land, Infrastructure and Transport Award at the 2022 ‘Smart Construction Challenge’<br><br>
-
+  
+ 👨‍🎓 **Research**<br>
+  2024 ‘MS cloud-based smart concrete quality control and abnormality detection platform using big data analysis' (KIIE:Korean Institute of Industrial Engineers)
+  2024 ‘Smart concrete quality control and abnormality detection platform' (KSQM:Korean Society for Quality Management)
+  
   😍 **VOLUNTEER**<br>
   I love ${\color{blue}sharing}$ good influence and ${\color{blue}social value}$.<br>
   From 2016 Present Ministry of Employment and Labor, college student employment mentoring, talent donation service data analysis job<br>
