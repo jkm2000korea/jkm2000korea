@@ -36,8 +36,12 @@
   2022 Received the Minister of Land, Infrastructure and Transport Award at the 2022 ‘Smart Construction Challenge’<br><br>
   
  👨‍🎓 **Research**<br>
-  2024 ‘MS cloud-based smart concrete quality control and abnormality detection platform using big data analysis' (KIIE:Korean Institute of Industrial Engineers)<br>
-  2024 ‘Smart concrete quality control and abnormality detection platform' (KSQM:Korean Society for Quality Management)<br><br>
+  2018 Development of a quality defect prevention system through analysis of 4M data from construction sites <br>
+  (KSQM:Korean Society for Quality Management)- Outstanding Paper Award 🥇<br>
+  2024 ‘MS cloud-based smart concrete quality control and abnormality detection platform using big data analysis'<br> 
+  (KIIE:Korean Institute of Industrial Engineers)<br>
+  2024 ‘Smart concrete quality control and abnormality detection platform' <br>
+  (KSQM:Korean Society for Quality Management)<br><br>
   
   😍 **VOLUNTEER**<br>
   I love ${\color{blue}sharing}$ good influence and ${\color{blue}social value}$.<br>
