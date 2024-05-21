@@ -21,7 +21,7 @@
   This is ✨Jeong Kyung-moon✨, ${\color{blue}a \space data \space analyst \space and \space a \space writer}$ growing together.<br>
   We are taking the lead in popularizing data literacy to answer the question,<br>
         
-   <div align="center" style="font-size: 24px;">
+   <div align="center" style="font-size: x-large;">
    <b>“Does data provide equal opportunities for everyone?”</b><br><br>
    </div>
    
