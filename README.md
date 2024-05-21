@@ -37,9 +37,7 @@
   2022 Received the Minister of Land, Infrastructure and Transport Award at the 2022 ‘Smart Construction Challenge’<br><br>
   
  👨‍🎓 **RESEARCH**<br>
-  A researcher who ${\color{blue}enjoys \new \challenges}$<br>
-                   ${\color{blue}{enjoys\ new\ challenges}}<br>
-
+  A researcher who ${\color{blue}{enjoys\ new\ challenges}}$<br>
   2018 Development of a quality defect prevention system through analysis of 4M data from construction sites <br>
   (KSQM:Korean Society for Quality Management)- Outstanding Paper Award 🥇<br>
   2024 ‘MS cloud-based smart concrete quality control and abnormality detection platform using big data analysis'<br> 
