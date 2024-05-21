@@ -21,9 +21,10 @@
   This is ✨Jeong Kyung-moon✨, ${\color{blue}a \space data \space analyst \space and \space a \space writer}$ growing together.<br>
   We are taking the lead in popularizing data literacy to answer the question,<br>
         
-   <div align="center" style="font-size: x-large;">
+   <div align="center">
    <b>“Does data provide equal opportunities for everyone?”</b><br><br>
    </div>
+   ## “Does data provide equal opportunities for everyone?”
    
   🏫 **LECTURE**<br>
   I am ${\color{blue}a\space National\space Competency\space Standards\space (NCS) \space instructor}$ in Information Technology Strategy and Planning.<br>
