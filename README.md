@@ -22,7 +22,7 @@
   We are taking the lead in popularizing data literacy to answer the question,<br>
     
   <div align="center">
-  <b style="font-size: 30px;">“Does data provide equal opportunities for everyone?”</b><br><br>
+  <span style="font-size:24px;"><b>“Does data provide equal opportunities for everyone?”</b></span><br><br>
   </div>
   
   🏫 **LECTURE**<br>
