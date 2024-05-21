@@ -31,13 +31,13 @@
   [Data Analysis] National and public universities, graduate schools, and private universities<br><br>
 
   🥇 **AWARD**<br>
-  All achievements were not achieved alone. ${\color{blue}Team\members\are\always\with\ME.}$<br>
+  All achievements were not achieved alone. ${\color{blue}Team\members\are\always\with\ME}$<br>
   2019 ‘Big Data Analysis-Based Quality Management’ Incheon Metropolitan City Mayor’s Award/Gyeongnam Province Governor’s Award/President’s Award<br>
   2020 Received the Minister of Land, Infrastructure and Transport Award for 2020 ‘Intelligent AI Defect Prevention Technology’<br>
   2022 Received the Minister of Land, Infrastructure and Transport Award at the 2022 ‘Smart Construction Challenge’<br><br>
   
  👨‍🎓 **RESEARCH**<br>
-  A researcher who ${\color{blue}\enjoys\new\challenges}$<br>
+  A researcher who ${\color{blue}enjoys\new\challenges}$<br>
   2018 Development of a quality defect prevention system through analysis of 4M data from construction sites <br>
   (KSQM:Korean Society for Quality Management)- Outstanding Paper Award 🥇<br>
   2024 ‘MS cloud-based smart concrete quality control and abnormality detection platform using big data analysis'<br> 
