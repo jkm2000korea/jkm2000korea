@@ -24,7 +24,6 @@
    <div align="center">
    <b>“Does data provide equal opportunities for everyone?”</b><br><br>
    </div>
-   ## “Does data provide equal opportunities for everyone?”
    
   🏫 **LECTURE**<br>
   I am ${\color{blue}a\space National\space Competency\space Standards\space (NCS) \space instructor}$ in Information Technology Strategy and Planning.<br>
