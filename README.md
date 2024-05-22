@@ -22,11 +22,9 @@
   We are taking the lead in popularizing data literacy to answer the question,<br>
         
    <div align="center">
-   <b>“Does data provide equal opportunities for everyone?”</b><br><br>
+   <p>$\huge{\rm{\color{#5ad7b7}Does\ data\ provide\ equal\ opportunities\ for\ everyone?}}$</p>
    </div>
-
-   <p>$\huge{\rm{\color{#5ad7b7}"Does\ data\ provide\ equal\ opportunities\ for\ everyone?”}}$</p>
-   
+  
   🏫 **LECTURE**<br>
   I am ${\color{blue}a\space National\space Competency\space Standards\space (NCS) \space instructor}$ in Information Technology Strategy and Planning.<br>
   [Data Literacy] Public Institutions and Companies<br>
