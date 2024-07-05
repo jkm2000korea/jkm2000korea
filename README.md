@@ -43,7 +43,9 @@
   2024 ‘MS cloud-based smart concrete quality control and abnormality detection platform using big data analysis'<br> 
   (KIIE:Korean Institute of Industrial Engineers)<br>
   2024 ‘Smart concrete quality control and abnormality detection platform' <br>
-  (KSQM:Korean Society for Quality Management)<br><br>
+  (KSQM:Korean Society for Quality Management)<br>
+  ${\color{blue}{2024 Technology and Expert Recommendation Algorithms Utilizing Generative AI and Retrieval-Augmented Generation (RAG)}}$
+  <br><br>
   
   😍 **VOLUNTEER**<br>
   I love ${\color{blue}sharing}$ good influence and ${\color{blue}social value}$.<br>
