@@ -1,6 +1,6 @@
 ## 👋 Who is Pablo?? (Public) 👋 
 <b>Data Analyst & Writer for everyone</b><br>
-💪 I have experienced 16 years in Data Analysis in Research & Design, Business Analysis, and Teaching.<br>
+💪 I have experienced 16 years in Data Analysis in Research & Design, Business Analysis, and Teaching .<br>
 🚀 Skilled blow<br><br>
 <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
