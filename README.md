@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="100%" height="100%" >
+<img src = "https://github.com/jkm2000korea/jkm2000korea/assets/77305773/10ae7e94-8f02-43ff-a361-2d21eb2ce174" width="35%" height="100%" >
 <br>I chose data analysis over kiss my boss's ass<br><br></p>
 
   😁 **ABOUT ME**<br>
